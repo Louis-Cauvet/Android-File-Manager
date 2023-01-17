@@ -23,10 +23,7 @@ Cependant, avec du recul, je me rend compte que l'expérience-utilisateur était
 
 
 ### Quelques images du projet 📷
-![image du projet 1](https://github.com/Louis-Cauvet/Android-File-Manager/blob/main/Images/Capture1.PNG)
-</br></br>
+<span>![image du projet 1](https://github.com/Louis-Cauvet/Android-File-Manager/blob/main/Images/Capture1.PNG)
 ![image du projet 2](https://github.com/Louis-Cauvet/Android-File-Manager/blob/main/Images/Capture2.PNG)
-</br></br>
 ![image du projet 3](https://github.com/Louis-Cauvet/Android-File-Manager/blob/main/Images/Capture3.PNG)
-</br></br>
-![image du projet 3](https://github.com/Louis-Cauvet/Android-File-Manager/blob/main/Images/Capture4.PNG)
+![image du projet 4](https://github.com/Louis-Cauvet/Android-File-Manager/blob/main/Images/Capture4.PNG)</span>
