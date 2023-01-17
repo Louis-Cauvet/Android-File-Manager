@@ -20,3 +20,13 @@ Projet réalisé en **C#**, avec l'utilisation de la plateforme open-source **Xa
 Ce projet, sur le papier plutôt simple, nous a permis de faire face à de nouveaux problèmes tels que la gestion des autorisations utilisateurs, la récupération de données à partir d'un appareil et la mise en relation avec d'autres applications. Sur le plan technique, toutes les fonctionnalités de base sont fonctionnelles (créer un dossier, se déplacer dans les dossiers, créer un fichier, supprimmer un fichier, ouvrir un fichier...).
 
 Cependant, avec du recul, je me rend compte que l'expérience-utilisateur était très limitée : on aurait pu envisager une personnalisation de l'application avec différents thèmes ou dispositions de fichiers, une fonction de recherche ou de tri, une gestion des erreurs plus complète...
+
+
+### Quelques images du projet 📷
+![image du projet 1](https://github.com/Louis-Cauvet/Android-File-Manager/blob/main/Images/Capture1.PNG)
+</br></br>
+![image du projet 2](https://github.com/Louis-Cauvet/Android-File-Manager/blob/main/Images/Capture2.PNG)
+</br></br>
+![image du projet 3](https://github.com/Louis-Cauvet/Android-File-Manager/blob/main/Images/Capture3.PNG)
+</br></br>
+![image du projet 3](https://github.com/Louis-Cauvet/Android-File-Manager/blob/main/Images/Capture4.PNG)
